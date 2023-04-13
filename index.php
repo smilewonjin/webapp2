@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <title>smilewonjin</title>
 </head>
-<body>
+<body style="background-color: black;>
 <!-- 인트로 시작 -->
 <div style="z-index:1;position:relative;min-width:970px">
     <div style="position:relative;margin:0 auto;padding:50px 0;width:970px;zoom:1;text-align:center">
